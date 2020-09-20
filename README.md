@@ -29,6 +29,14 @@ Fun fact: I love to draw ! 🎨
 </p>
 
 <br />
+
+<p align="center">
+<!-- Github Stats: showIcons, Deg, Title, Icon, Text, Hide -->
+<img src="https://github-readme-stats.vercel.app/api?username=samarth-1729&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Github Readme Stats" height='160'/>
+
+<!-- Github Stats: showIcons, Deg, Title, Icon, Text, Hide -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarth-1729&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Github Top Langs" height='160' />
+</p>
 <p align="center">
 <a href="https://www.linkedin.com/in/samarth-potdar-a2930b19a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tarun-tomar-4ab0b5193" height="30" width="30" /></a>
 <a href="https://www.instagram.com/_s_m_rth__1729__/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="taru_122" height="30" width="30" /></a>
