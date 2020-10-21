@@ -1,6 +1,7 @@
 <h1 align="center">Hola, It's me Samarth Potdar !!!</h1>
 
 <p align="center">
+<strong>
 I’m currently learning many things 😉
 <br />  
 I’m looking to collaborate with other programmers ✌
@@ -8,6 +9,7 @@ I’m looking to collaborate with other programmers ✌
 <strong>2020 Goals<strong/>: Contribute more to Open Source projects 😊
 <br />
 <b>Fun fact<b/>: I love to draw ! 🎨
+  <strong/>
 <br />
 </p>
 
