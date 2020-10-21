@@ -5,9 +5,9 @@ I’m currently learning many things 😉
 <br />  
 I’m looking to collaborate with other programmers ✌
 <br />
-2020 Goals: Contribute more to Open Source projects 😊
+<strong>2020 Goals<strong/>: Contribute more to Open Source projects 😊
 <br />
-Fun fact: I love to draw ! 🎨
+<b>Fun fact<b/>: I love to draw ! 🎨
 <br />
 </p>
 
