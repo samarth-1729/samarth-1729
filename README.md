@@ -14,7 +14,6 @@ I’m looking to collaborate with other programmers ✌
 </p>
 
 <br />
-<br />
 
 <p align="center">
 <a href="https://www.linkedin.com/in/samarth-potdar-a2930b19a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tarun-tomar-4ab0b5193" height="30" width="30" target="_blank"/>
